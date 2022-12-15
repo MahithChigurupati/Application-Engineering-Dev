@@ -2,10 +2,11 @@
 <Strong><h1>Package Delivery System</h1></Strong>
 By Team Number 22
 <br>
-<p>SaiMahith Chigurupati, 
-<a href="https://github.com/adityakanala" target="_blank">Aditya Kanala</a>
-<a href="https://github.com/mmohitr" target="_blank">Maruti Mohit Rayalacheruvu</a>
-<br>
+<p>
+<a href="https://github.com/MahithChigurupati" target="_blank">SaiMahith Chigurupati</a><br>
+<a href="https://github.com/adityakanala" target="_blank">Aditya Kanala</a><br>
+<a href="https://github.com/mmohitr" target="_blank">Maruti Mohit Rayalacheruvu</a><br>
+<p>
 <br>
 
 <strong><h2>Project Description</h2></strong>
