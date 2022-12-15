@@ -7,7 +7,6 @@ By Team Number 22
 <a href="https://github.com/adityakanala" target="_blank">Aditya Kanala</a><br>
 <a href="https://github.com/mmohitr" target="_blank">Maruti Mohit Rayalacheruvu</a><br>
 <p>
-<br>
 
 <strong><h2>Project Description</h2></strong>
 <p>A simplified package delivery system for users to order an item from the store. This store manager checks for the stock and places the order to the warehouse who in turn place the order to the supplier. The suppplier then raises a shipment request for the the package shipping and this shipment team raises a delivery token for the package to be delivered to the customer.<br><br>The multiple users have a designated role throughout the project.<br><br> The whole ecosystem can be divided into Enterprises,  Organizations, Roles.</p>
