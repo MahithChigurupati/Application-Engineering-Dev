@@ -2,7 +2,7 @@
 <Strong><h1>Package Delivery System</h1></Strong>
 By Team Number 22
 <br>
-<p>Aditya Kanala, Ch. Sai Mahith, R. Maruthi Mohith<p>
+<p>SaiMahith Chigurupati, Aditya Kanala, R. Maruthi Mohith<p>
 <br>
 <br>
 
